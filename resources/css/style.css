@@ -13,7 +13,7 @@ h1 {
   color: white;
 }
 
-nav a {
+.btn-nav {
   font-size: 18px;
   color: white;
 }
@@ -50,8 +50,4 @@ p {
 
 li {
   margin: 15px 0;
-}
-
-#footer-nav {
-  display: inline;
 }
