@@ -21,3 +21,37 @@ nav a {
 .nav-list {
     list-style-type: none;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight:bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#new-york {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+  color: white;
+}
+
+li {
+  margin: 15px 0;
+}
+
+#footer-nav {
+  display: inline;
+}
